@@ -12,7 +12,7 @@ global.DEVELOPER = ["2349024437359"] //
 global.BOT_NAME = "RANGER XMD TECH"
 global.bankowner = "𝕫𝕦𝕜𝕠 ✗𝕞𝕕"
 global.creatorName = "RANGER XMD TECH"
-global.ownernumber = '2349024437359"  //creator number
+global.ownernumber = "2349024437359"  //creator number
 global.location = "Nigeria,lagos island"
 global.prefa = ['','!','.','#','&']
 //================DO NOT CHANGE OR YOU'LL GET AN ERROR=============\
@@ -22,7 +22,7 @@ global.autobio = true//auto update bio
 global.botName = "𝕫𝕦𝕜𝕠 ✗𝕞𝕕"
 global.version = "1.0.1"
 global.botname = "𝕫𝕦𝕜𝕠 ✗𝕞𝕕"
-global.author = "PRINCE "
+global.author = "PRINCE"
 global.themeemoji = "🥷"
 global.wagc = 'https://chat.whatsapp.com/Bnrx29Li2mZDS2LKxI9LYMt'
 global.thumbnail = 'https://cdn.tmp.malvryx.dev/files/mxv_39ySA4EXu.jpeg'
