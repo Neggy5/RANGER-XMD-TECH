@@ -70,7 +70,7 @@ const Z = {
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 const LINKS = {
     channel: 'https://t.me/Rangertechcrop',
-    group:   'https://t.me/+5c2OfuaxjiE4ZDBk',
+    group:   'https://t.me/Rangertechcropcrop',
 };
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -85,7 +85,7 @@ const REQUIRE_MEMBERSHIP = true;
 const REQUIRED_CHANNELS  = [
     { link: '@Rangertechcrop', name: '◈ RANGER XMD TECH CHANNEL' },
 ];
-const REQUIRED_GROUP = '@https://t.me/+5c2OfuaxjiE4ZDBk';
+const REQUIRED_GROUP = '@Rangertechcropcrop';
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 // HELPERS
