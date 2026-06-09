@@ -12,7 +12,7 @@ global.DEVELOPER = ["2349024437359"] //
 global.BOT_NAME = "RANGER XMD TECH"
 global.bankowner = "𝕫𝕦𝕜𝕠 ✗𝕞𝕕"
 global.creatorName = "RANGER XMD TECH"
-global.ownernumber = '2349024437359  //creator number
+global.ownernumber = '2349024437359"  //creator number
 global.location = "Nigeria,lagos island"
 global.prefa = ['','!','.','#','&']
 //================DO NOT CHANGE OR YOU'LL GET AN ERROR=============\
